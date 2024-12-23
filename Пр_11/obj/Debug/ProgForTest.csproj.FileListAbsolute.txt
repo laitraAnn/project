@@ -9,3 +9,14 @@ C:\Users\Анна\Desktop\Пр_11\Пр_11\bin\Debug\Пр_11.exe.manifest
 C:\Users\Анна\Desktop\Пр_11\Пр_11\bin\Debug\Пр_11.application
 C:\Users\Анна\Desktop\Пр_11\Пр_11\obj\Debug\Пр_11.exe.manifest
 C:\Users\Анна\Desktop\Пр_11\Пр_11\obj\Debug\Пр_11.application
+C:\Users\Анна\Desktop\programma\Пр_11\bin\Debug\Пр_11.exe.config
+C:\Users\Анна\Desktop\programma\Пр_11\bin\Debug\Пр_11.exe.manifest
+C:\Users\Анна\Desktop\programma\Пр_11\bin\Debug\Пр_11.application
+C:\Users\Анна\Desktop\programma\Пр_11\bin\Debug\Пр_11.exe
+C:\Users\Анна\Desktop\programma\Пр_11\bin\Debug\Пр_11.pdb
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\ProgForTest.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\ProgForTest.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\Пр_11.exe.manifest
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\Пр_11.application
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\Пр_11.exe
+C:\Users\Анна\Desktop\programma\Пр_11\obj\Debug\Пр_11.pdb
