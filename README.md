@@ -14,3 +14,9 @@
  Просто загрузите garage.exe и программой можно пользоваться без дополнительных установок.
  
  `Для удобства так же добавлен исходный код.`
+
+ ## Авторы
+
+ * **user12* - *Initial work* - [PurpleBooth](http://git.vm:3000/user12/AppWS)
+
+See also the list of [contributors](http://git.vm:3000/user12/contributors) who participated in this project.
